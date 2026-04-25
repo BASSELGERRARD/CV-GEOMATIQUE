@@ -12,7 +12,7 @@ st.markdown("---")
 
 # Informations personnelles
 with st.sidebar:
-    st.image("photo.jpeg", width=150)
+    st.image("Photo.jpeg", width=150)
     
     st.title("Fatimata Bassel Ba")
     st.header("Technicienne Supérieur en Géomatique")
