@@ -25,7 +25,7 @@ st.write("### Technicienne de Terrain et Bureau d'Études. Spécialiste de la co
 
 # Formations et Diplomes
 st.header("Formations Académiques")
-st.write(" *En cours*") 
+st.write(" *2025*") 
 st.write("*Master en Géographie*")
 st.caption("Université Cheikh Anta Diop de Dakar (UCAD)")
 st.write("---")
