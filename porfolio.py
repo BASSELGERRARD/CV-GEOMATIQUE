@@ -41,30 +41,30 @@ st.caption("lycée Blaise Diagne de Dakar")
 
 st.header("Compétences")
 st.markdown (".......")
-st.write("*Topographie & Levés*")
+st.write("*-Topographie & Levés*")
 st.write("*Conception Cartographique*")
-st.write("*Analyse Spatiale (SIG)*")
-st.write("*Dessin Architectural*")
-st.write("*Gestion de Bases de Données*")
+st.write("*-Analyse Spatiale (SIG)*")
+st.write("*-Dessin Architectural*")
+st.write("*-Gestion de Bases de Données*")
 
 # OUtils à utiliser
 
 st.header (" Maîtrise Logicielle & Technique")
 st.markdown(".....")
-st.write ("*ArcGIS*")
-st.write ("*QGIS*")
-st.write("*AutoCAD*")
-st.write("*Sketchup (3D)*")
-st.write("*Python / Streamlit*")
-st.write("*Power AMC*")
+st.write ("*-ArcGIS*")
+st.write ("*-QGIS*")
+st.write("*-AutoCAD*")
+st.write("*-Sketchup (3D)*")
+st.write("*-Python / Streamlit*")
+st.write("*-Power AMC*")
 
 
 # Projets
 st.header("Réalisations & Projets Phares")
 st.write("""
-*   *Application Web SIG :* Création d'interfaces interactives avec Streamlit.
-*   *Cartographie Thématique :* Conception de cartes complexes pour l'aide à la décision
-*    *Expertise Terrain :* Campagnes de levés topographiques et traitement de données de précision.
+*   *-Application Web SIG :* Création d'interfaces interactives avec Streamlit.
+*   *-Cartographie Thématique :* Conception de cartes complexes pour l'aide à la décision
+*    *-Expertise Terrain :* Campagnes de levés topographiques et traitement de données de précision.
 
 """)
 
