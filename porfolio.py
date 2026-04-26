@@ -12,13 +12,11 @@ st.markdown("---")
 
 # Informations personnelles
 with st.sidebar:
-    st.image("IMAGE.jpeg", width=150)
     
     st.title("Fatimata Bassel Ba")
     st.header("Technicienne Supérieur en Géomatique")
     st.write("Email:fatimabasselb@gmail.com")
     st.write("Adresse:Dakar, Sénégal")
-    st.write ("Téléphone: 77_825_47_57")
     st.markdown("---")
 
 # Profils
