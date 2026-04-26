@@ -31,7 +31,6 @@ st.write(" *En cours*")
 st.write("*Master en Géographie*")
 st.caption("Université Cheikh Anta Diop de Dakar (UCAD)")
 st.write("---")
-
 st.write("*2023*")
 st.write(" *Brevet de Technicienne Supérieur en Géomatique*")
 st.caption(" Centre d'Entreprenariat et de Développement Technique (G15)")
